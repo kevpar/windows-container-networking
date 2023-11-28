@@ -42,6 +42,7 @@ require (
 )
 
 replace (
+	github.com/containernetworking/cni v1.1.2 => github.com/kevpar/cni v0.0.0-20231128095630-ced4b2e2c923
 	github.com/opencontainers/runc => github.com/opencontainers/runc v1.1.5
 	golang.org/x/sys => golang.org/x/sys v0.1.0
 )

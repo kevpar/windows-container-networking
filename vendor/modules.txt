@@ -45,7 +45,7 @@ github.com/containerd/console
 # github.com/containerd/go-runc v1.0.0
 ## explicit; go 1.13
 github.com/containerd/go-runc
-# github.com/containernetworking/cni v1.1.2
+# github.com/containernetworking/cni v1.1.2 => github.com/kevpar/cni v0.0.0-20231128095630-ced4b2e2c923
 ## explicit; go 1.14
 github.com/containernetworking/cni/pkg/invoke
 github.com/containernetworking/cni/pkg/skel
